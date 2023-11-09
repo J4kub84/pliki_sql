@@ -1,0 +1,51 @@
+header{
+border-style:solid;
+border-color:aquamarine;
+padding-bottom: 5em;
+}
+
+#nawigacja
+{
+background-color: blueviolet;
+}
+
+.linki {
+border-style: solid;
+border-width: 1px;
+border-color:green ;
+color: pink;
+margin-top: 5px;
+float: left;
+width: 15%;
+text-align: center;
+font-size: large;
+margin-right: 5px;
+padding-bottom: 4px;
+padding-top: 4px;
+font-family: 'comic Sans', sans-serif;
+}
+.linki:hover {
+
+    color:blue
+}
+
+footer{
+    border-style: dashed;
+    border-color: brown;
+    margin-top: 10px;
+    clear: both;
+}
+.a1 {
+    border-style: dashed;
+    border-color: violet;
+}
+body {margin: 5px; }
+
+main {margin-top: 10px; 
+background-color: green;
+width: 40%;}
+
+aside {border-style: dashed;
+    border-color: red;
+float: left;
+}
